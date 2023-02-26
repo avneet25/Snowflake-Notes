@@ -1,4 +1,4 @@
-# Snowflake-notes ❄️
+# Snowflake-Notes ❄️
 
 day 1:
 - Architecture
